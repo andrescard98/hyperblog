@@ -1,0 +1,10 @@
+#texto {
+    background: blue;
+    color: white;
+    text-align: center;
+}
+
+.imagen{
+    width: 500px;
+    height: 200px;
+}
